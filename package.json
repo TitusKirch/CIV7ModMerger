@@ -13,7 +13,7 @@
     "taze": "taze"
   },
   "devDependencies": {
-    "eslint": "^8.55.0",
+    "eslint": "^8.57.1",
     "eslint-config-prettier": "^8.10.0",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.8.8",
@@ -23,9 +23,9 @@
   "author": "Titus Kirch",
   "license": "MIT",
   "dependencies": {
-    "archiver": "^6.0.1",
+    "archiver": "^6.0.2",
     "decompress": "^4.2.1",
-    "jiti": "^1.21.0",
+    "jiti": "^1.21.7",
     "node-7z-archive": "^1.1.7"
   },
   "engines": {

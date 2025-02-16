@@ -9,20 +9,20 @@ importers:
   .:
     dependencies:
       archiver:
-        specifier: ^6.0.1
+        specifier: ^6.0.2
         version: 6.0.2
       decompress:
         specifier: ^4.2.1
         version: 4.2.1
       jiti:
-        specifier: ^1.21.0
+        specifier: ^1.21.7
         version: 1.21.7
       node-7z-archive:
         specifier: ^1.1.7
         version: 1.1.7(encoding@0.1.13)
     devDependencies:
       eslint:
-        specifier: ^8.55.0
+        specifier: ^8.57.1
         version: 8.57.1
       eslint-config-prettier:
         specifier: ^8.10.0
