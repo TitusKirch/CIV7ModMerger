@@ -22,10 +22,15 @@ jobs:
       - name: Enable corepack
         run: corepack enable
 
+      # fix: https://github.com/nodejs/corepack/issues/612
+      - name: Set alternate npm integrity keys
+        run: |
+          echo COREPACK_INTEGRITY_KEYS="$(curl https://registry.npmjs.org/-/npm/v1/keys | jq -c '{npm: .keys}')" >> $GITHUB_ENV
+
       - name: Setup node
         uses: actions/setup-node@v4
         with:
-          node-version: 22.14.0
+          node-version: 20
           cache: 'pnpm'
 
       - name: Install dependencies

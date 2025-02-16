@@ -28,8 +28,7 @@
     "jiti": "^1.21.7",
     "node-7z-archive": "^1.1.7"
   },
-  "packageManager": "pnpm@9.15.4",
   "engines": {
-    "node": ">=22"
+    "node": ">=20"
   }
 }
