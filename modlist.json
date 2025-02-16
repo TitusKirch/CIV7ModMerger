@@ -1,0 +1,28 @@
+{
+  "mods": [
+    {
+      "name": "Sukritact's Simple UI Adjustments",
+      "source": "civfanatics",
+      "url": "https://forums.civfanatics.com/resources/sukritacts-simple-ui-adjustments.31860/",
+      "assetType": "7z"
+    },
+    {
+      "name": "Memento Filters Mod",
+      "source": "civfanatics",
+      "url": "https://forums.civfanatics.com/resources/memento-filters-mod.31914/",
+      "assetType": "zip"
+    },
+    {
+      "name": "MantisMaestro's Compact Production Chooser",
+      "source": "civfanatics",
+      "url": "https://forums.civfanatics.com/resources/mantismaestros-compact-production-chooser.31862/",
+      "assetType": "zip"
+    },
+    {
+      "name": "KayleeR's Misc UI Modifications",
+      "source": "civfanatics",
+      "url": "https://forums.civfanatics.com/resources/kayleers-misc-ui-modifications.31885/",
+      "assetType": "zip"
+    }
+  ]
+}
