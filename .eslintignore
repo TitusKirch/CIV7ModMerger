@@ -1,3 +1,5 @@
 .eslintignore
 node_modules/*
 taze.config.js
+output/*
+*.json
